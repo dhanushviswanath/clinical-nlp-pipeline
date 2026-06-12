@@ -1,1 +1,1 @@
-
+"""Clinical NLP pipeline package."""
